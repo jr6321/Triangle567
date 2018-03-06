@@ -44,3 +44,4 @@ def classify_triangle(a, b, c):
             ret += " right"
 
         return ret
+    
